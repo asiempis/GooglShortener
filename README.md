@@ -1,6 +1,6 @@
 # GooglShortener
 
-Multi URL Goog.gl Shortener in PHP
+Multi URL Goo.gl Shortener in PHP
 
 ## Basic Usage
 
@@ -8,7 +8,7 @@ Multi URL Goog.gl Shortener in PHP
 
 ``` php
 
-# Paste your list to texarea and click generate
+# Paste your list of urls to the texarea and click generate
 # Below the form you will find the shortened urls
 
 ## Authentication
