@@ -21,6 +21,8 @@ For shorten requests, each short URL for an authenticated user is unique, and th
 Go to http://goo.gl to see URL statistics.
 
 ```
+
+```
 ## How to obtain a Free Google API Key:
 
 1. Visit console.developers.google.com
