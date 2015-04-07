@@ -7,12 +7,11 @@ Multi URL Goo.gl Shortener in PHP
 ### Shorten a list of long URLs
 
 ``` php
-
-# Paste your list of urls to the texarea and click generate
+# Paste your list of urls to the textarea and click generate
 # Below the form you will find the shortened urls
-
 ```
-## Authentication
+
+### Authentication
 
 The Google URL Shortener API supports the OAuth and ClientLogin mechanisms for authenticating.
 
@@ -21,7 +20,7 @@ For shorten requests, each short URL for an authenticated user is unique, and th
 Go to http://goo.gl to see URL statistics.
 
 
-## How to obtain a Free Google API Key:
+### How to obtain a Free Google API Key:
 
 1. Visit console.developers.google.com
 2.Create a new project
