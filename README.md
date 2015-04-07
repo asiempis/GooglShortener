@@ -1,4 +1,4 @@
-# googl
+# GooglShortener
 
 Multi URL Goog.gl Shortener in PHP
 
@@ -6,7 +6,7 @@ Multi URL Goog.gl Shortener in PHP
 
 ## Basic Usage
 
-### Shorten a list of long URL
+### Shorten a list of long URLs
 
 ``` php
 
