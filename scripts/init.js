@@ -15,7 +15,7 @@ $(function() {
 						
 			$.ajax({  
 			  type: "POST",  
-			  url: "../generate.php",
+			  url: "generate.php",
 			  data: {result:stuff},
 			  dataType: "json",
 			  success: function(result) {
